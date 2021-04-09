@@ -32499,6 +32499,10 @@ a.u-link.u-text-hover-grey-90:hover {
     width: 161px;
   }
 
+  .u-footer .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
   .u-footer .u-container-layout-1 {
     padding-left: 19px;
     padding-right: 19px;
@@ -32509,14 +32513,26 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-right: 15px;
   }
 
+  .u-footer .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
   .u-footer .u-container-layout-2 {
     padding-left: 19px;
     padding-right: 19px;
   }
 
+  .u-footer .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
   .u-footer .u-container-layout-3 {
     padding-left: 19px;
     padding-right: 19px;
+  }
+
+  .u-footer .u-layout-cell-4 {
+    min-height: 100px;
   }
 
   .u-footer .u-container-layout-4 {
